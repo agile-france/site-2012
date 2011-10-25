@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="AgileFranceConference2012-logo-police.svg"
-   inkscape:export-filename="/media/DATA/agile-france-2012/AgileFranceConference2012-logo.png"
+   inkscape:export-filename="/home/ericlemerdy/workspace/agile-france-static-page/www/images/AgileFranceConference2012-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -111,14 +111,6 @@
        y1="574.29041"
        x2="310.02237"
        y2="661.03595" />
-    <filter
-       inkscape:collect="always"
-       id="filter3887">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.15868444"
-         id="feGaussianBlur3889" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -128,8 +120,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="16.833725"
-     inkscape:cy="97.372789"
+     inkscape:cx="15.823575"
+     inkscape:cy="109.9997"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -182,30 +174,30 @@
        ry="8.0812197" />
     <text
        xml:space="preserve"
-       style="font-size:51.33722687000000207px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Purisa;-inkscape-font-specification:Purisa Bold;stroke-opacity:1;filter:url(#filter3887)"
+       style="font-size:51.33722681999999793px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.82100432999999984;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay;"
        x="89.682076"
        y="196.62685"
        id="text4131"
        sodipodi:linespacing="125%"
-       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"><tspan
+       transform="matrix(1.1848026,-0.31746687,0.31746687,1.1848026,-31.115955,-37.974954)"><tspan
          sodipodi:role="line"
          id="tspan4133"
          x="89.682076"
          y="196.62685"
-         style="font-size:51.33722687000000207px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Purisa;-inkscape-font-specification:Purisa Bold;stroke:#000000;stroke-opacity:1">agile</tspan></text>
+         style="font-size:51.33722682px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;stroke:none;stroke-width:0.82100432999999984;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay">agile</tspan></text>
     <text
        sodipodi:linespacing="125%"
        xml:space="preserve"
-       style="font-size:23.05846976999999853px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Purisa;-inkscape-font-specification:Purisa Bold;stroke-opacity:1"
-       x="86.343117"
-       y="280.25446"
+       style="font-size:28.14038277px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold"
        id="text4135"
-       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4137"
-         x="86.343117"
-         y="280.25446"
-         style="font-size:23.05846976999999853px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Purisa;-inkscape-font-specification:Purisa Bold;stroke:#000000;stroke-opacity:1">conférence</tspan></text>
+       inkscape:export-filename="/home/ericlemerdy/workspace/agile-france-static-page/www/images/text4135.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       y="278.47662"
+       x="79.448982"
+       transform="matrix(0.96195655,-0.27320248,0.27320248,0.96195655,0,0)"><tspan
+   id="tspan4137"
+   style="font-size:28.14038277px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold">conférence</tspan></text>
     <path
        inkscape:connector-curvature="0"
        d="m 71.552417,144.09886 45.636923,0.85717 c 0,0 -0.68549,7.01997 0.0396,16.39026 0.42607,5.50612 2.53032,16.37198 2.53032,16.37198 0,0 -11.93411,1.85461 -19.5399,2.33532 -9.310093,0.5884 -27.989503,-0.2616 -27.989503,-0.2616 0,0 -1.34427,-7.22854 -1.48121,-12.74718 -0.2874,-11.58367 0.45467,-22.96479 0.80378,-22.94595 z"
@@ -257,5 +249,11 @@
          x="216.1671"
          y="267.15894"
          style="font-size:30.71197128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c50000;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">2012</tspan></text>
+    <path
+       style="fill:none;stroke:none"
+       d="m 151.79278,238.20437 c 33.2163,8.90028 129.79506,-25.74934 149.50258,-45.45686"
+       id="path3802"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
