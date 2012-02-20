@@ -14,9 +14,9 @@
    height="191"
    id="svg3207"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="AgileFranceConference2012-logo-police.svg"
-   inkscape:export-filename="/home/ericlemerdy/workspace/agile-france-static-page/www/images/AgileFranceConference2012-logo.png"
+   inkscape:export-filename="../www/images/AgileFranceConference2012-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -126,9 +126,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="876"
+     inkscape:window-height="770"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -188,16 +188,16 @@
     <text
        sodipodi:linespacing="125%"
        xml:space="preserve"
-       style="font-size:28.14038277px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold"
+       style="font-size:45.88111115px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.30434942;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold"
        id="text4135"
        inkscape:export-filename="/home/ericlemerdy/workspace/agile-france-static-page/www/images/text4135.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       y="278.47662"
-       x="79.448982"
+       y="284.03516"
+       x="85.725777"
        transform="matrix(0.96195655,-0.27320248,0.27320248,0.96195655,0,0)"><tspan
-   id="tspan4137"
-   style="font-size:28.14038277px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.80000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold">conférence</tspan></text>
+         id="tspan4137"
+         style="font-size:45.88111115px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:1.30434942;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:WhatDoWeDoAllDay;-inkscape-font-specification:WhatDoWeDoAllDay Bold">france</tspan></text>
     <path
        inkscape:connector-curvature="0"
        d="m 71.552417,144.09886 45.636923,0.85717 c 0,0 -0.68549,7.01997 0.0396,16.39026 0.42607,5.50612 2.53032,16.37198 2.53032,16.37198 0,0 -11.93411,1.85461 -19.5399,2.33532 -9.310093,0.5884 -27.989503,-0.2616 -27.989503,-0.2616 0,0 -1.34427,-7.22854 -1.48121,-12.74718 -0.2874,-11.58367 0.45467,-22.96479 0.80378,-22.94595 z"
